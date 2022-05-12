@@ -1,0 +1,57 @@
+.flex-mosaico{
+	display: flex;
+
+}
+
+.mosaico-um{
+	background-image: url("imagens/mosaico1.jpg");
+}
+
+.mosaico-dois{
+	margin-top: 10px;
+	background-image: url("imagens/mosaico2.jpg");
+
+}
+
+.mosaico-tres{
+	background-image: url("imagens/mosaico3.jpg");
+}
+
+.mosaico-quatro{
+	margin-top: 10px;
+	background-image: url("imagens/mosaico4.jpg");
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.item-1-mosaico{
+	background-position: center;
+	background-size: cover;
+	width: 60%;
+}
+
+.item-2-mosaico{
+	background-color: #4683AB;
+	padding:90px 40px;
+	width: 40%;
+	
+}
+
+.item-2-mosaico p{
+	color: white;
+}
